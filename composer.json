@@ -1,5 +1,5 @@
 {
-    "name": "kryptonPay/powerbi-sdk",
+    "name": "kryptonpay/powerbi-sdk",
     "description": "PHP SDK for working with PowerBI",
     "type": "library",
     "license": "MIT",
